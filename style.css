@@ -6,7 +6,7 @@
 
 body {
     background-color: rgb(61,34,108);
-    background: radial-gradient(circle, rgba(61,34,108,1) 0%, rgba(101,9,121,1) 35%, rgba(50,226,244,1) 350%);
+    background: radial-gradient(circle, rgba(61,34,108,1) 0%, rgba(101,9,121,1) 35%, rgba(50,226,244,1) 400%);
     height: 100vh;
     font-family: 'montserrat', sans-serif;
 }
